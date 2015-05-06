@@ -8,7 +8,11 @@ Pi Stack Switch is SDN Testbed using Raspberry Pi2 and OpenvSwitch.
 
 ##Installation
 1. Set prerequisites
-    `$ sudo rpi-update`
+    
+
+        `$ sudo rpi-update`
+
+
     `$ sudo apt-get update`
 
 
