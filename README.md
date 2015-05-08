@@ -3,7 +3,11 @@
 
 ##Introduction
 This project is Pi Stack Switch for SDN & Programmable Network.
+
 Pi Stack Switch is SDN Testbed using Raspberry Pi2 and OpenvSwitch.
+
+More information about Pi-Switch [wiki](https://github.com/MobileConvergenceLab/pi-switch/wiki)
+
 
 
 ##Installation
