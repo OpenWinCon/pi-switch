@@ -98,8 +98,11 @@ So, We propose __Pi Stack Switch__ for solving these problems. If you want to te
 6. If Your Pis are allocated IP address, Set IP address/netmask on bridge. And deallocate eth0.
 
     `$ sudo ifconfig <BridgeName> <IP address/subnet>`
+    
+    `$ sudo ifconfig eth0 0`
 
     [example]
+    
     `$ sudo ifconfig <BridgeName> 192.168.0.101/24`
     
     `$ sudo ifconfig eth0 0`
@@ -112,6 +115,7 @@ So, We propose __Pi Stack Switch__ for solving these problems. If you want to te
     `$ sudo ifconfig <BridgeName> hw ether <MAC Address of Pi-eth0>`
 
     [example]
+    
     `$ sudo ifconfig <BridgeName> hw ether 00:00:00:00:00:00`
     
 
