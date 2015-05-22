@@ -17,6 +17,8 @@
 Single Pi-Switch has limitation of Ethernet port number and lack of processing power. If you test network performance with just single Pi-Switch that supports 4 or more Ethernet port using self-powered USB hub, you may experience performance degradation due to bottleneck situation in chip of Raspberry Pi. This is problem of hardware.
 So, We propose __Pi Stack Switch__ for solving these problems. If you want to test network with 4 or more Ethernet ports, we recommend Pi Stack Switch. Pi Stack Switch is made of stacked Pi-Switch and comprised of single main switch and 3 or 4 sub switch. Classification of main switch and sub switch is based on physical position.
 
+[SlideShare about Pi Stack Switch : Building SDN Testbed](http://www.slideshare.net/kairosfox/sdn-onos-openvirtex)
+
 &nbsp;&nbsp;&nbsp;
 
 
