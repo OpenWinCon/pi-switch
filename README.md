@@ -26,7 +26,7 @@ So, We propose __Pi Stack Switch__ for solving these problems. If you want to te
 
 
 ##Hardware Component of Pi Stack Switch
-![](https://github.com/MobileConvergenceLab/pi-switch/blob/master/img/pi-switch-component.jpg)
+![](https://github.com/MobileConvergenceLab/pi-switch/raw/master/img/pi-switch-component.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,8 +34,8 @@ So, We propose __Pi Stack Switch__ for solving these problems. If you want to te
 
 
 ##Deployment of Main / Sub switch 
-<img src="https://github.com/MobileConvergenceLab/pi-switch/blob/master/img/pi-switch-2.jpg" width="30%">
-<img src="https://github.com/MobileConvergenceLab/pi-switch/blob/master/img/pi-switch-3.jpg" width="44%">
+<img src="https://github.com/MobileConvergenceLab/pi-switch/raw/master/img/pi-switch-2.jpg" width="30%">
+<img src="https://github.com/MobileConvergenceLab/pi-switch/raw/master/img/pi-switch-3.jpg" width="44%">
 ###Single main switch and three sub switch
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,7 +44,7 @@ So, We propose __Pi Stack Switch__ for solving these problems. If you want to te
 
 
 ##Process
-<img src="https://github.com/MobileConvergenceLab/pi-switch/blob/master/img/pi-switch-process.jpg">
+<img src="https://github.com/MobileConvergenceLab/pi-switch/raw/master/img/pi-switch-process.jpg">
 
 ※_[Caution] It may not function due to the difference in power consumption according to the type of the adapter's chipset._
 
