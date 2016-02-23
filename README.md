@@ -62,7 +62,7 @@ So, We propose __Pi Stack Switch__ for solving these problems. If you want to te
 
 2. Install OpenvSwitch
     
-    `$ sudo apt-get install openvswitch-switch openvswitch-controller openvswitch-common openvswitch-brcompat ovsdbmonitor openvswitch-pki`
+    `$ sudo apt-get install openvswitch-switch openvswitch-controller openvswitch-common`
 
 
 
